@@ -3,3 +3,7 @@ Represented Chapters (6 required):
 4 (imageCropping())
 6 (imageTranslation())
 7 (makingHistogram())
+8 (imageBlurring())
+10 (treeDetection())
+
+I am done.
